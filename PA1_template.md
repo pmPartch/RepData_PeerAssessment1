@@ -2,10 +2,11 @@
 
 *Notes to the graders*
 
-I've been struggling with this assignment due to my lack of R experience. As such, I would appreciate any constructive comments on better techniques or to point out what you think may be blunders with possible corrections.  
+~~I've been struggling with this assignment due to my lack of R experience. As such, I would appreciate any constructive comments on better techniques or to point out what you think may be blunders with possible corrections.  
 I've avoided dplyr chaining for a reason in the following code chunks. I find that holding on to the tempoaries helps my understanding of R (again, my lack of R experience). Some of the temporaries I do cleanup since they just clutter up the namespace (file paths, etc)
+In many cases, I've added more to the data tables than is requied (sum of steps, datetime, etc). This was done during my initial attempts to process this data and I've decided to leave it in place.~~
 
-In many cases, I've added more to the data tables than is requied (sum of steps, datetime, etc). This was done during my initial attempts to process this data and I've decided to leave it in place.
+This original work was first submitted December 2014 (when I first took this class). I'm now retaking this class, with verification, so I can qualify for the capstone. I did not intend that this work get graded yet and submitted it too early (the new Coursera format is a bit of a surprise). 
 
 ## Setup global options and load required libraries
 
